@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task3 {
+public class task4 {
     // метод получения числа
     static int scanNumber() {
         Scanner scan = new Scanner(System.in);
